@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample_imageListener</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="enter_name_hint">Please Enter your Name</string>
+    <string name="delivery_method">Choose Delivery Method</string>
+    <string name="same_day_service">Your Order will be delivered in 24 Hrs</string>
+    <string name="next_day_ground_deliver">Your Order will be delivered in Two Days</string>
+    <string name="pick_up">You Can Pick up your order</string>
+</resources>
